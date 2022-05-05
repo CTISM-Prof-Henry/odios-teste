@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "test",
-      "setup": "",
+      "setup": "pip install -r requirements.txt",
       "run": "python test.py",
       "input": "",
       "output": "",
